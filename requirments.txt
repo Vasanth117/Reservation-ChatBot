@@ -1,5 +1,3 @@
 flask
 chatterbot==1.0
 pytz
-
-Hi Successfully Connected
