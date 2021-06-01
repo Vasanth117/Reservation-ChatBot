@@ -15,21 +15,95 @@ conversations:
   - Vasj ChatBot
 - - who created you
   - vasanth
+
 - - vasanth
   - Before proceeding, Please Enter your email address
-- - vasanth@gmail.com
+  - vasanth@gmail.com
   - how can i help you
-- - suggest me a best hotel nearby
-  - top 5 hotels 
-- - suggest me a cost efficient one
+  - suggest me a best hotel nearby
+  - top 5 hotels
+  - suggest me a cost efficient one
   - 2 nd Hostel is Cost Effective
-- - rate the ambience of the hotel
+  - rate the ambience of the hotel
   - "4.9 / 5.0"
-- - reserve me this hotel 
-  - pleae enter your mobile no
-- - "1234567890"
+  - reserve me this hotel 
+  - plese enter your mobile no
+  - "1234567890"
   - single or double bed room ?
-- - single
-  - cash or card?
-- - cash 
+  - single
+  - cash or card ?
+  - double
+  - cash or card ?
+  - cash 
   - ThankYou for using our service Your Room No is 109
+  - card
+  - ThankYou for using our service Your Room No is 117
+
+- - jaisurya
+  - Before proceeding, Please Enter your email address
+  - jaisurya@gmail.com
+  - how can i help you
+  - suggest me a best hotel nearby
+  - top 5 hotels
+  - suggest me a cost efficient one
+  - 3rd Hostel is Cost Effective
+  - rate the ambience of the hotel
+  - "4.5 / 5.0"
+  - reserve me this hotel 
+  - plese enter your mobile no
+  - "1234567890"
+  - single or double bed room ?
+  - single
+  - cash or card ?
+  - double
+  - cash or card ?
+  - cash 
+  - ThankYou for using our service Your Room No is 101
+  - card
+  - ThankYou for using our service Your Room No is 171
+
+- - santosh
+  - Before proceeding, Please Enter your email address
+  - santosh@gmail.com
+  - how can i help you
+  - suggest me a best hotel nearby
+  - top 5 hotels
+  - suggest me a cost efficient one
+  - 1st Hostel is Cost Effective
+  - rate the ambience of the hotel
+  - "4.8 / 5.0"
+  - reserve me this hotel 
+  - plese enter your mobile no
+  - "1234567890"
+  - single or double bed room ?
+  - single
+  - cash or card ?
+  - double
+  - cash or card ?
+  - cash 
+  - ThankYou for using our service Your Room No is 100
+  - card
+  - ThankYou for using our service Your Room No is 91
+  
+- - akshay
+  - Before proceeding, Please Enter your email address
+  - akshay@gmail.com
+  - how can i help you
+  - suggest me a best hotel nearby
+  - top 5 hotels
+  - suggest me a cost efficient one
+  - 5th Hostel is Cost Effective
+  - rate the ambience of the hotel
+  - "4.3 / 5.0"
+  - reserve me this hotel 
+  - plese enter your mobile no
+  - "1234567890"
+  - single or double bed room ?
+  - single
+  - cash or card ?
+  - double
+  - cash or card ?
+  - cash 
+  - ThankYou for using our service Your Room No is 80
+- - card
+  - ThankYou for using our service Your Room No is 71
